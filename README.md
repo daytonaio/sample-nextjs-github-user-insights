@@ -2,9 +2,10 @@
 
 ## TypeScript/NextJs
 
-Built using Next.js, Tailwind CSS, and ShadCN, leveraging the power of MetaLLama 3 hosted on AWS Bedrock
+Built using Next.js, TypeScript, Tailwind CSS, and ShadCN, leveraging the power of MetaLLama 3 hosted on AWS Bedrock
 
 ![alt text](image.png)
+
 
 ## 🚀 Getting Started  
 
